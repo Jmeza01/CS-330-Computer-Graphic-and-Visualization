@@ -1,4 +1,4 @@
-# CS-330-Computer-Graphic-and-Visualization
+# Computer-Graphic-and-Visualization
 ### 1. How do I approach designing software?
 I approach designing software in general will be making a pseudocode or flow chart that will lead me to a direction that can accomodate all requirements for the program to work. As I design software I will keep in mind all of the objects and methods that need to be used. Implementing a SDLC agile methodology and OOP model on using UML class diagrams can help me organize all the apsects of an object with attributes that come with behaviors. In fact, I would consider what will my graphical design need to be intuitive and completely functional. Therefore, I go thoroughly with the shaders that need to evolve in phases by importing my skills like shaping an object in 2D first and expanding it to be a 3D object for example.
 ### 2. What new design skills has your work on the project helped you to craft?
